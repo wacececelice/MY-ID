@@ -30,7 +30,7 @@ export default function Portfolio() {
         <div className="container mx-auto flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Cyuzuzo Ishimwe Patrick</span>
+              Hi, I&apos;m <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Cyuzuzo Ishimwe Patrick</span>
             </h1>
             <h2 className="text-2xl md:text-3xl mb-6 text-gray-300">
               <span className="typewriter">frontend Developer | UI/UX Designer</span>
@@ -81,10 +81,10 @@ export default function Portfolio() {
             <div className="md:w-2/3 md:pl-12">
               <h3 className="text-2xl font-semibold mb-4">Who am I?</h3>
               <p className="text-gray-300 mb-6">
-                I'm a passionate developer and designer with 3+ years of experience creating web applications and digital experiences. I specialize in modern react frameworks and have a keen eye for design and user experience.
+                I&apos;m a passionate developer and designer with 3+ years of experience creating web applications and digital experiences. I specialize in modern react frameworks and have a keen eye for design and user experience.
               </p>
               <p className="text-gray-300 mb-6">
-                My journey in tech started when I was in L3 during 2k22 and my family drigo, and since then I've worked with startups and established companies to bring their digital products to life.
+                My journey in tech started when I was in L3 during 2k22 and my family drigo, and since then I&apos;ve worked with startups and established companies to bring their digital products to life.
               </p>
               <div className="grid grid-cols-2 gap-4">
                 <div>
@@ -132,7 +132,6 @@ export default function Portfolio() {
               <h3 className="text-xl font-semibold mb-6">Technical Skills</h3>
               <div className="space-y-4">
                 {[
-                
                   { name: 'React/Next.js', level: 85 },
                   { name: 'HTML/CSS', level: 95 },
                   { name: 'UI/UX Design', level: 91 },
